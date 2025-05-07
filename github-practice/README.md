@@ -24,6 +24,7 @@
 % git checkout b1
 
 # 修正を行い、コミットする
+edit
 
 % git add -u
 % git commit
