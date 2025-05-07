@@ -25,8 +25,7 @@
 
 # 修正を行い、コミットする
 edit
-edit
-edit
+
 % git add -u
 % git commit
 
